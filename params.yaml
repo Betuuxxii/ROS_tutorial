@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 250
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_bet_virtual_machine__42513: 'http://bet-Virtual-Machine:42513/'}
+rosversion: '1.14.3
+
+  '
+run_id: 8bb64a94-fcd3-11e9-9f07-00155d380111
